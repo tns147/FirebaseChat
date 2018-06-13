@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseTesting</string>
+    <string name="facebook_app_id">1880638141974980</string>
+    <string name="fb_login_protocol_scheme">fb1880638141974980</string>
+    <string name="facebook_application_id" translatable="false">1880638141974980</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1880638141974980</string>
+    <string name="permission_rationale">Please grant location permission to start the service</string>
+</resources>
